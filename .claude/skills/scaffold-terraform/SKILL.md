@@ -10,7 +10,7 @@ Generate a complete Terraform configuration for deploying a static website to AW
 
 Use $ARGUMENTS for optional overrides:
 - $0 = AWS region (default: ap-south-1)
-- $1 = Project name (default: portfolio-site)
+- $1 = Project name (default: portfolio-web-site)
 
 ## What to Generate
 
